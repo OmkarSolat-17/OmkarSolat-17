@@ -1,21 +1,56 @@
-# 💫 About Me:
-# Hi 👋, I'm Omkar Solat<br><br>## 🚀 About Me<br><br>I am a 2nd year Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.<br><br>I am passionate about building intelligent systems and exploring the world of AI, Machine Learning, and Software Development. Currently, I am strengthening my foundations in Data Structures & Algorithms, Object-Oriented Programming, Web Development, and AI/ML technologies.<br><br>My goal is to become an AI-ML Engineer and create impactful solutions using technology, while continuously improving my problem-solving and development skills.<br><br>I believe in consistent learning, building real-world projects, and transforming ideas into practical solutions. 🚀<br><br>## 💻 Tech Stack<br><br>**Languages:**<br><br>* Python<br>* Java<br>* C<br>* JavaScript<br>* SQL<br><br>**Web Development:**<br><br>* HTML<br>* CSS<br>* React (Learning)<br><br>**Database & Tools:**<br><br>* MySQL<br>* Git<br>* GitHub<br><br>## 🌱 Currently Learning<br><br>* Data Structures & Algorithms<br>* Artificial Intelligence<br>* Machine Learning<br>* APIs<br>* React<br>* Advanced Programming Concepts<br><br>## 🔥 Projects<br><br>🏥 **Hospital Management System**<br><br>* A database-driven system designed to manage hospital operations efficiently.<br><br>🎓 **Student Management System**<br><br>* A system for managing student records and academic information.<br><br>🎬 **AI Recommendation Systems**<br><br>* Exploring recommendation algorithms for movie and music suggestions using AI concepts.<br><br>🤟 **Sign Language Recognition System**<br><br>* Working towards AI-based solutions for gesture recognition and accessibility.<br><br>## 🎯 Career Goal<br><br>To become an AI-ML Engineer and work on innovative AI-driven solutions that solve real-world problems.<br><br>## 📊 GitHub Stats<br><br>(Add GitHub Stats Card)<br><br>(Add Top Languages Card)<br><br>(Add GitHub Streak Card)<br><br>## 🤝 Connect With Me<br><br>LinkedIn | Portfolio | LeetCode | HackerRank | Instagram<br><br>⭐ "Learning today, building tomorrow."
+# Hi, I'm Omkar Solat
 
+Computer Science student · AI & Machine Learning
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.omkar.solat._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-solat-os17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omkarsolat2007@gmail.com) 
+I'm studying Computer Science with a specialization in Artificial Intelligence and Machine Learning. I'm building my foundations through Python projects in recommendation systems and computer vision, alongside software and web development.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=OmkarSolat-17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=OmkarSolat-17&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=OmkarSolat-17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My goal is to become an AI/ML engineer who can take a problem from data exploration to a useful, well-tested application.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=OmkarSolat-17&theme=aura_dark&no-frame=false&no-bg=false&margin-w=4)
+[LinkedIn](https://www.linkedin.com/in/omkar-solat-os17) · [Email](mailto:omkarsolat2007@gmail.com) · [Portfolio source](https://github.com/OmkarSolat-17/portfolio)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Selected projects
+
+### [Movie Recommendation System](https://github.com/OmkarSolat-17/Movie-Recommendation-System)
+
+A Python experiment exploring movie recommendations with MovieLens 100K data.
+
+- **Implementation:** genre-based TF-IDF similarity, SVD collaborative filtering, and an autoencoder for user embeddings.
+- **Tools:** Python, pandas, NumPy, scikit-learn, TensorFlow/Keras, Matplotlib.
+- **Next steps:** correct the hybrid scoring and evaluation pipeline, add reproducible setup, and compare against a popularity baseline.
+
+### [Sign Language Recognition System](https://github.com/OmkarSolat-17/Sign-Language-Recognition-System)
+
+A computer vision prototype for classifying hand-sign images, with a webcam inference script.
+
+- **Implementation:** CNN training with TensorFlow/Keras and hand detection with MediaPipe and OpenCV.
+- **Tools:** Python, TensorFlow/Keras, OpenCV, MediaPipe, NumPy.
+- **Next steps:** document the dataset and supported signs, save label mappings with the model, and evaluate on held-out signers.
+
+*These are learning prototypes, not production systems. Reproducible benchmarks and documented demos are the next milestones.*
+
+### [MyBloggy](https://github.com/OmkarSolat-17/MyBloggy)
+
+A static blogging website built with HTML, CSS, and JavaScript, with search, category filters, theme switching, and browser-local posts. A supporting project for practicing interfaces and client-side application logic.
+
+## Technical foundations
+
+| Area | Tools and experience |
+| :--- | :--- |
+| ML project work | Python, NumPy, pandas, scikit-learn, TensorFlow/Keras |
+| Computer vision | OpenCV, MediaPipe, CNN image classification |
+| Visualization | Matplotlib |
+| Programming foundations | C, Java, JavaScript, SQL |
+| Web and development tools | HTML, CSS, Git, GitHub, MySQL |
+
+## What I'm working toward
+
+- **Reliable evaluation:** leakage-free splits, useful baselines, and error analysis.
+- **Reproducible projects:** configurable data paths, dependency files, tests, and clear run instructions.
+- **Software fundamentals:** data structures, algorithms, object-oriented programming, and APIs.
+- **Useful ML applications:** connecting models to simple interfaces and documenting their limitations.
+
+## Connect
+
+Interested in recommendation systems, computer vision, or learning through practical projects? I'd be happy to connect on [LinkedIn](https://www.linkedin.com/in/omkar-solat-os17) or by [email](mailto:omkarsolat2007@gmail.com).
