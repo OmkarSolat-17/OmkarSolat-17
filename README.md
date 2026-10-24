@@ -1,40 +1,58 @@
 # Hi, I'm Omkar Solat
 
-Computer Science student · AI & Machine Learning
+Computer Science student · Building toward AI/ML engineering
 
-I'm studying Computer Science with a specialization in Artificial Intelligence and Machine Learning. I'm building my foundations through Python projects in recommendation systems and computer vision, alongside software and web development.
+I build Python projects in **recommendation systems** and **computer vision**, with a focus on turning experiments into understandable, reproducible software. Alongside ML, I'm developing my foundations in algorithms, databases, and web development.
 
-My goal is to become an AI/ML engineer who can take a problem from data exploration to a useful, well-tested application.
+My goal: take a problem from data exploration to a useful application—with clear evaluation, tests, and honest limitations.
 
 [![LinkedIn: Omkar Solat](https://img.shields.io/badge/LinkedIn-Omkar%20Solat-0A66C2?style=flat-square)](https://www.linkedin.com/in/omkar-solat-os17)
 [![Email Omkar](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omkarsolat2007@gmail.com)
 [![Portfolio source on GitHub](https://img.shields.io/badge/Portfolio-Source%20code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/OmkarSolat-17/portfolio)
 
+**Explore:** [Projects](#selected-projects) · [Technical foundations](#technical-foundations) · [Learning priorities](#learning-priorities) · [Collaborate](#lets-connect)
+
 ---
 
 ## Selected projects
 
-### [Movie Recommendation System](https://github.com/OmkarSolat-17/Movie-Recommendation-System)
+| Project | Focus | Start here |
+| :--- | :--- | :--- |
+| [Movie Recommendation System](https://github.com/OmkarSolat-17/Movie-Recommendation-System) | Offline recommendation experiments and evaluation | [Setup & synthetic demo](https://github.com/OmkarSolat-17/Movie-Recommendation-System#quick-start) |
+| [Sign Language Recognition System](https://github.com/OmkarSolat-17/Sign-Language-Recognition-System) | Hand-sign image classification and local inference | [Dataset guide](https://github.com/OmkarSolat-17/Sign-Language-Recognition-System/blob/main/docs/dataset.md) |
+| [MyBloggy](https://github.com/OmkarSolat-17/MyBloggy) | Front-end interfaces and browser-local state | [Project guide](https://github.com/OmkarSolat-17/MyBloggy/blob/main/README.txt) |
 
-A Python experiment exploring movie recommendations with MovieLens 100K data.
+### Movie Recommendation System
 
-- **Implementation:** genre-based TF-IDF similarity, SVD collaborative filtering, and an autoencoder for user embeddings.
-- **Tools:** Python, pandas, NumPy, scikit-learn, TensorFlow/Keras, Matplotlib.
-- **Next steps:** correct the hybrid scoring and evaluation pipeline, add reproducible setup, and compare against a popularity baseline.
+**Question:** How do simple baselines, collaborative filtering, and genre-based recommendations compare under the same evaluation protocol?
 
-### [Sign Language Recognition System](https://github.com/OmkarSolat-17/Sign-Language-Recognition-System)
+- **Approach:** global/item means, popularity, SVD, genre-based TF-IDF, and a weighted hybrid on MovieLens 100K-format data. Rating-derived model state is fitted on training interactions only.
+- **Engineering:** packaged Python CLI, configurable data paths, explicit user/movie ID mappings, deterministic splits, JSON reports, regression tests, and a CI workflow.
+- **Evaluation:** RMSE/MAE for rating predictors; Precision@K, Recall@K, and NDCG@K for full-catalog ranking excluding training-seen items.
+- **Try it:** the repository includes a synthetic demo that needs no dataset download. Synthetic results are smoke tests, **not MovieLens benchmarks**.
+- **Scope:** a CPU-based offline experiment suite, not a deployed recommendation service. No quality improvement over baselines is claimed here.
 
-A computer vision prototype for classifying hand-sign images, with a webcam inference script.
+[Source & setup](https://github.com/OmkarSolat-17/Movie-Recommendation-System) · [Evaluation protocol](https://github.com/OmkarSolat-17/Movie-Recommendation-System#evaluation-protocol) · [Validation notes](https://github.com/OmkarSolat-17/Movie-Recommendation-System/blob/main/docs/validation.md)
 
-- **Implementation:** CNN training with TensorFlow/Keras and hand detection with MediaPipe and OpenCV.
-- **Tools:** Python, TensorFlow/Keras, OpenCV, MediaPipe, NumPy.
-- **Next steps:** document the dataset and supported signs, save label mappings with the model, and evaluate on held-out signers.
+### Sign Language Recognition System
 
-*These are learning prototypes, not production systems. Reproducible benchmarks and documented demos are the next milestones.*
+**Question:** How can a CNN classify a defined set of hand-sign images and expose predictions through a local interface?
 
-### [MyBloggy](https://github.com/OmkarSolat-17/MyBloggy)
+- **Approach:** TensorFlow/Keras image classification, with MediaPipe hand detection and OpenCV for webcam/video input; single-image prediction is also supported.
+- **Engineering:** configurable training and prediction commands, saved label mappings, confidence-aware output, input validation, tests, and a CI workflow.
+- **Try it:** supply a labeled image dataset, train a model, and use the matching model and labels for prediction. **No dataset or pretrained model is bundled.**
+- **Scope:** recognition of the classes in the training dataset—not general sign-language translation. Accuracy and generalization depend on the data and require evaluation on unseen signers and conditions.
 
-A static blogging website built with HTML, CSS, and JavaScript, with search, category filters, theme switching, and browser-local posts. A supporting project for practicing interfaces and client-side application logic.
+[Source & setup](https://github.com/OmkarSolat-17/Sign-Language-Recognition-System) · [Dataset requirements](https://github.com/OmkarSolat-17/Sign-Language-Recognition-System/blob/main/docs/dataset.md) · [Architecture](https://github.com/OmkarSolat-17/Sign-Language-Recognition-System/blob/main/docs/architecture.md)
+
+### MyBloggy
+
+A static blogging interface built with **HTML, CSS, and JavaScript**, with search, category filters, theme switching, and browser-local posts.
+
+- **Practice areas:** UI behavior, client-side state, and multi-page navigation.
+- **Scope:** a front-end learning demo. Browser-local accounts and storage are not secure production authentication or a backend service.
+
+[Source & project guide](https://github.com/OmkarSolat-17/MyBloggy)
 
 ## Technical foundations
 
@@ -47,21 +65,32 @@ A static blogging website built with HTML, CSS, and JavaScript, with search, cat
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://github.com/OmkarSolat-17/Sign-Language-Recognition-System)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://github.com/OmkarSolat-17/Sign-Language-Recognition-System)
 
-| Area | Tools and experience |
+| Area | Tools and practice |
 | :--- | :--- |
-| ML project work | Python, NumPy, pandas, scikit-learn, TensorFlow/Keras |
-| Computer vision | OpenCV, MediaPipe, CNN image classification |
+| Recommendation systems | NumPy, pandas, scikit-learn, SVD, TF-IDF, offline ranking metrics |
+| Computer vision | TensorFlow/Keras, OpenCV, MediaPipe, CNN image classification |
+| Reproducible Python | CLI configuration, dependency files, pytest, Ruff, GitHub Actions |
 | Visualization | Matplotlib |
-| Programming foundations | C, Java, JavaScript, SQL |
-| Web and development tools | HTML, CSS, Git, GitHub, MySQL |
+| Programming foundations | Python, C, Java, JavaScript, SQL |
+| Web and data tools | HTML, CSS, Git, GitHub, MySQL |
 
-## What I'm working toward
+## Learning priorities
 
-- **Reliable evaluation:** leakage-free splits, useful baselines, and error analysis.
-- **Reproducible projects:** configurable data paths, dependency files, tests, and clear run instructions.
-- **Software fundamentals:** data structures, algorithms, object-oriented programming, and APIs.
-- **Useful ML applications:** connecting models to simple interfaces and documenting their limitations.
+I'm building on the project tooling already in place, with the next emphasis on evidence and generalization:
 
-## Connect
+- **Recommendation quality:** run documented MovieLens comparisons, introduce a separate validation split before tuning, and examine coverage alongside ranking accuracy.
+- **Vision evaluation:** test on unseen signers, backgrounds, and lighting; inspect per-class errors rather than relying on a single accuracy number.
+- **Useful interfaces:** connect models to small applications while documenting hardware, data, and deployment constraints.
+- **Software fundamentals:** keep strengthening data structures, algorithms, object-oriented design, APIs, and tests.
 
-Interested in recommendation systems, computer vision, or learning through practical projects? I'd be happy to connect on [LinkedIn](https://www.linkedin.com/in/omkar-solat-os17) or by [email](mailto:omkarsolat2007@gmail.com).
+I also maintain an [ML project README template](templates/ml-project-readme.md) covering data provenance, reproducible setup, evaluation, and limitations.
+
+## Let's connect
+
+I'm interested in learning-focused collaboration around **recommendation systems, computer vision, and reproducible Python projects**. Helpful feedback on evaluation design, test coverage, and documentation is especially welcome.
+
+- **Discuss a project:** open an issue in the relevant repository with the problem, context, and a reproducible example where possible.
+- **Connect professionally:** [LinkedIn](https://www.linkedin.com/in/omkar-solat-os17).
+- **Reach out directly:** [omkarsolat2007@gmail.com](mailto:omkarsolat2007@gmail.com).
+
+*These repositories document my learning and engineering practice. Project-specific setup, validation evidence, and limitations live in each repository's README.*
