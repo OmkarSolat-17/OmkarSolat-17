@@ -6,7 +6,9 @@ I'm studying Computer Science with a specialization in Artificial Intelligence a
 
 My goal is to become an AI/ML engineer who can take a problem from data exploration to a useful, well-tested application.
 
-[LinkedIn](https://www.linkedin.com/in/omkar-solat-os17) · [Email](mailto:omkarsolat2007@gmail.com) · [Portfolio source](https://github.com/OmkarSolat-17/portfolio)
+[![LinkedIn: Omkar Solat](https://img.shields.io/badge/LinkedIn-Omkar%20Solat-0A66C2?style=flat-square)](https://www.linkedin.com/in/omkar-solat-os17)
+[![Email Omkar](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omkarsolat2007@gmail.com)
+[![Portfolio source on GitHub](https://img.shields.io/badge/Portfolio-Source%20code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/OmkarSolat-17/portfolio)
 
 ---
 
@@ -35,6 +37,15 @@ A computer vision prototype for classifying hand-sign images, with a webcam infe
 A static blogging website built with HTML, CSS, and JavaScript, with search, category filters, theme switching, and browser-local posts. A supporting project for practicing interfaces and client-side application logic.
 
 ## Technical foundations
+
+*Tools used in my learning projects—not certifications or proficiency ratings.*
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/OmkarSolat-17/Movie-Recommendation-System)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://github.com/OmkarSolat-17/Movie-Recommendation-System)
+[![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://github.com/OmkarSolat-17/Movie-Recommendation-System)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://github.com/OmkarSolat-17/Movie-Recommendation-System)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://github.com/OmkarSolat-17/Sign-Language-Recognition-System)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://github.com/OmkarSolat-17/Sign-Language-Recognition-System)
 
 | Area | Tools and experience |
 | :--- | :--- |
