@@ -147,12 +147,13 @@ I'm a **B.Tech CSE (AI/ML)** student who builds ML systems that work beyond note
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmkarSolat-17&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" height="170">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats-commit?username=OmkarSolat-17&theme=tokyonight" alt="Stats" height="170">
   <img src="https://streak-stats.demolab.com/?user=OmkarSolat-17&theme=tokyonight&hide_border=true" alt="Streak Stats" height="170">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarSolat-17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmkarSolat-17&theme=tokyonight" alt="Top Languages" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmkarSolat-17&theme=tokyonight" alt="Most Commit Language" height="180">
 </p>
 
 ---
@@ -160,7 +161,7 @@ I'm a **B.Tech CSE (AI/ML)** student who builds ML systems that work beyond note
 ### 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmkarSolat-17&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmkarSolat-17&theme=tokyonight" alt="Profile Details">
 </p>
 
 ---
