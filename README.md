@@ -160,11 +160,10 @@ I'm a **B.Tech CSE (AI/ML)** student who builds ML systems that work beyond note
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarSolat-17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170">
 </p>
 
-### 💻 Spent My Time On
+### 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarSolat-17&layout=donut&theme=tokyonight&hide_border=true&langs_count=10" alt="Languages Donut" height="300">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=OmkarSolat-17&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats" height="300">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarSolat-17&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&hide=html,css" alt="Languages Donut" height="280">
 </p>
 
 ### 🐍 Contribution Snake
