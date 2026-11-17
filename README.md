@@ -1,4 +1,9 @@
 <h1 align="center">Hi, I'm Omkar Solat 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Building+ML+systems+beyond+notebooks;Computer+Vision+%7C+Recommendation+Systems;Open+Source+Contributor+%7C+20%2B+Merged+PRs;B.Tech+CSE+(AI%2FML)" alt="Typing SVG">
+</p>
+
 <h3 align="center">AI/ML Engineer · Computer Vision · MLOps · ROS 2 Robotics</h3>
 
 <p align="center">
@@ -80,13 +85,13 @@ I'm a **B.Tech CSE (AI/ML)** student who builds ML systems that work beyond note
 <summary><b>📂 More Projects</b></summary>
 <br>
 
-| Project                                                                                                 | Description                                                                                      | Tech                             |
-| :------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------- | :------------------------------- |
+| Project | Description | Tech |
+|:--------|:------------|:-----|
 | [Object Detection & Tracking](https://github.com/OmkarSolat-17/CodeAlpha_Object-Detection-and-Tracking) | Real-time YOLOv5su detection + ByteTrack multi-object tracking with live web analytics dashboard | YOLOv5, ByteTrack, Flask, OpenCV |
-| [FAQ Chatbot](https://github.com/OmkarSolat-17/CodeAlpha_FAQs-Chatbot)                                  | NLP chatbot using TF-IDF text similarity and cosine matching with a modern dark-themed UI        | Flask, scikit-learn, NLP         |
-| [Music Generation with AI](https://github.com/OmkarSolat-17/CodeAlpha_Music-Generation-with-AI)         | Text-to-music generation using Meta's MusicGen and Hugging Face Transformers                     | MusicGen, Transformers, Flask    |
-| [Language Translation Tool](https://github.com/OmkarSolat-17/CodeAlpha_Language-Translation-Tool)       | Multilingual translation web app with language selection, copy, and text-to-speech               | Flask, NLP, JavaScript           |
-| [MyBloggy](https://github.com/OmkarSolat-17/MyBloggy)                                                   | Static blogging interface with search, category filters, theme switching, and local storage      | HTML, CSS, JavaScript            |
+| [FAQ Chatbot](https://github.com/OmkarSolat-17/CodeAlpha_FAQs-Chatbot) | NLP chatbot using TF-IDF text similarity and cosine matching with a modern dark-themed UI | Flask, scikit-learn, NLP |
+| [Music Generation with AI](https://github.com/OmkarSolat-17/CodeAlpha_Music-Generation-with-AI) | Text-to-music generation using Meta's MusicGen and Hugging Face Transformers | MusicGen, Transformers, Flask |
+| [Language Translation Tool](https://github.com/OmkarSolat-17/CodeAlpha_Language-Translation-Tool) | Multilingual translation web app with language selection, copy, and text-to-speech | Flask, NLP, JavaScript |
+| [MyBloggy](https://github.com/OmkarSolat-17/MyBloggy) | Static blogging interface with search, category filters, theme switching, and local storage | HTML, CSS, JavaScript |
 
 </details>
 
@@ -97,13 +102,13 @@ I'm a **B.Tech CSE (AI/ML)** student who builds ML systems that work beyond note
 **[GVP-Guard](https://github.com/Logical-Sprinters/GVP-Guard)** — Guard Verification Platform
 <sub>16 merged pull requests · Nov 2026</sub>
 
-| Area                | Contributions                                                                  |
-| :------------------ | :----------------------------------------------------------------------------- |
-| **Computer Vision** | Vehicle detection pipeline, ByteTrack multi-object tracking, ANPR integration  |
-| **Features**        | Evidence download system, cleanup-request workflow, incident association logic |
-| **Frontend**        | Modern responsive UI/UX redesign with polished components                      |
-| **Infrastructure**  | Weight download automation, dataset sourcing, benchmarking tools               |
-| **Documentation**   | Full README rebuild, structured docs tree, STATUS enum specification           |
+| Area | Contributions |
+|:-----|:--------------|
+| **Computer Vision** | Vehicle detection pipeline, ByteTrack multi-object tracking, ANPR integration |
+| **Features** | Evidence download system, cleanup-request workflow, incident association logic |
+| **Frontend** | Modern responsive UI/UX redesign with polished components |
+| **Infrastructure** | Weight download automation, dataset sourcing, benchmarking tools |
+| **Documentation** | Full README rebuild, structured docs tree, STATUS enum specification |
 
 ---
 
@@ -147,21 +152,25 @@ I'm a **B.Tech CSE (AI/ML)** student who builds ML systems that work beyond note
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats-commit?username=OmkarSolat-17&theme=tokyonight" alt="Stats" height="170">
-  <img src="https://streak-stats.demolab.com/?user=OmkarSolat-17&theme=tokyonight&hide_border=true" alt="Streak Stats" height="170">
+  <img src="https://streak-stats.demolab.com/?user=OmkarSolat-17&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmkarSolat-17&theme=tokyonight" alt="Top Languages" height="180">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmkarSolat-17&theme=tokyonight" alt="Most Commit Language" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmkarSolat-17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarSolat-17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170">
 </p>
 
----
-
-### 📈 Activity
+### 💻 Spent My Time On
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmkarSolat-17&theme=tokyonight" alt="Profile Details">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarSolat-17&layout=donut&theme=tokyonight&hide_border=true&langs_count=10" alt="Languages Donut" height="300">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=OmkarSolat-17&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats" height="300">
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OmkarSolat-17/OmkarSolat-17/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 ---
