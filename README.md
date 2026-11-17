@@ -156,14 +156,14 @@ I'm a **B.Tech CSE (AI/ML)** student who builds ML systems that work beyond note
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmkarSolat-17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarSolat-17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170">
+  <img src="https://github-stats-extended.vercel.app/api?username=OmkarSolat-17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=OmkarSolat-17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170">
 </p>
 
 ### 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarSolat-17&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&hide=html,css" alt="Languages Donut" height="280">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=OmkarSolat-17&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&hide=html,css" alt="Languages Donut" height="280">
 </p>
 
 ### 🐍 Contribution Snake
