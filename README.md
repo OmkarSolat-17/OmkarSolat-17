@@ -22,9 +22,20 @@ I'm a **B.Tech CSE (AI/ML)** student who builds ML systems that work beyond note
 - 🔭 Currently building **autonomous navigation systems** with ROS 2 + computer vision
 - 🧠 Focused on **recommendation systems**, **real-time object detection**, and **GenAI applications**
 - 🌱 Learning **MLOps** (Docker, MLflow, model serving) and **LLM fine-tuning**
-- 🤝 Open-source contributor — **16 merged PRs** to [GVP-Guard](https://github.com/Logical-Sprinters/GVP-Guard) (vehicle tracking, ANPR, UI)
+- 🤝 Open-source contributor — **20 merged PRs** to [GVP-Guard](https://github.com/Logical-Sprinters/GVP-Guard) (vehicle tracking, ANPR, UI)
 - 🏆 Selected for **36-hour National-Level Hackathon**
 - 💬 Ask me about: Python, computer vision, recommendation systems, ROS 2
+
+---
+
+### 📌 Currently
+
+|                     |                                                                      |
+| :------------------ | :------------------------------------------------------------------- |
+| 📖 **Reading**      | [Dive into Deep Learning](https://d2l.ai/) — hands-on ML/DL textbook |
+| 🛠️ **Building**     | BrandGuard — AI counterfeit detection (hackathon project)            |
+| 🎯 **Learning**     | PyTorch, LangChain, Docker for ML model serving                      |
+| 🎧 **Listening to** | Lex Fridman Podcast, Two Minute Papers                               |
 
 ---
 
@@ -85,13 +96,13 @@ I'm a **B.Tech CSE (AI/ML)** student who builds ML systems that work beyond note
 <summary><b>📂 More Projects</b></summary>
 <br>
 
-| Project | Description | Tech |
-|:--------|:------------|:-----|
+| Project                                                                                                 | Description                                                                                      | Tech                             |
+| :------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------- | :------------------------------- |
 | [Object Detection & Tracking](https://github.com/OmkarSolat-17/CodeAlpha_Object-Detection-and-Tracking) | Real-time YOLOv5su detection + ByteTrack multi-object tracking with live web analytics dashboard | YOLOv5, ByteTrack, Flask, OpenCV |
-| [FAQ Chatbot](https://github.com/OmkarSolat-17/CodeAlpha_FAQs-Chatbot) | NLP chatbot using TF-IDF text similarity and cosine matching with a modern dark-themed UI | Flask, scikit-learn, NLP |
-| [Music Generation with AI](https://github.com/OmkarSolat-17/CodeAlpha_Music-Generation-with-AI) | Text-to-music generation using Meta's MusicGen and Hugging Face Transformers | MusicGen, Transformers, Flask |
-| [Language Translation Tool](https://github.com/OmkarSolat-17/CodeAlpha_Language-Translation-Tool) | Multilingual translation web app with language selection, copy, and text-to-speech | Flask, NLP, JavaScript |
-| [MyBloggy](https://github.com/OmkarSolat-17/MyBloggy) | Static blogging interface with search, category filters, theme switching, and local storage | HTML, CSS, JavaScript |
+| [FAQ Chatbot](https://github.com/OmkarSolat-17/CodeAlpha_FAQs-Chatbot)                                  | NLP chatbot using TF-IDF text similarity and cosine matching with a modern dark-themed UI        | Flask, scikit-learn, NLP         |
+| [Music Generation with AI](https://github.com/OmkarSolat-17/CodeAlpha_Music-Generation-with-AI)         | Text-to-music generation using Meta's MusicGen and Hugging Face Transformers                     | MusicGen, Transformers, Flask    |
+| [Language Translation Tool](https://github.com/OmkarSolat-17/CodeAlpha_Language-Translation-Tool)       | Multilingual translation web app with language selection, copy, and text-to-speech               | Flask, NLP, JavaScript           |
+| [MyBloggy](https://github.com/OmkarSolat-17/MyBloggy)                                                   | Static blogging interface with search, category filters, theme switching, and local storage      | HTML, CSS, JavaScript            |
 
 </details>
 
@@ -100,15 +111,15 @@ I'm a **B.Tech CSE (AI/ML)** student who builds ML systems that work beyond note
 ### 🌍 Open Source Contributions
 
 **[GVP-Guard](https://github.com/Logical-Sprinters/GVP-Guard)** — Guard Verification Platform
-<sub>16 merged pull requests · Nov 2026</sub>
+<sub>20 merged pull requests · Nov 2026</sub>
 
-| Area | Contributions |
-|:-----|:--------------|
-| **Computer Vision** | Vehicle detection pipeline, ByteTrack multi-object tracking, ANPR integration |
-| **Features** | Evidence download system, cleanup-request workflow, incident association logic |
-| **Frontend** | Modern responsive UI/UX redesign with polished components |
-| **Infrastructure** | Weight download automation, dataset sourcing, benchmarking tools |
-| **Documentation** | Full README rebuild, structured docs tree, STATUS enum specification |
+| Area                | Contributions                                                                  |
+| :------------------ | :----------------------------------------------------------------------------- |
+| **Computer Vision** | Vehicle detection pipeline, ByteTrack multi-object tracking, ANPR integration  |
+| **Features**        | Evidence download system, cleanup-request workflow, incident association logic |
+| **Frontend**        | Modern responsive UI/UX redesign with polished components                      |
+| **Infrastructure**  | Weight download automation, dataset sourcing, benchmarking tools               |
+| **Documentation**   | Full README rebuild, structured docs tree, STATUS enum specification           |
 
 ---
 
@@ -125,6 +136,7 @@ I'm a **B.Tech CSE (AI/ML)** student who builds ML systems that work beyond note
 
 **ML / Deep Learning**
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -149,6 +161,18 @@ I'm a **B.Tech CSE (AI/ML)** student who builds ML systems that work beyond note
 
 ---
 
+### 🔢 By The Numbers
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Repos-16-181717?style=for-the-badge&logo=github" alt="Repos">
+  <img src="https://img.shields.io/badge/Merged%20PRs-20%2B-0A66C2?style=for-the-badge&logo=github" alt="PRs">
+  <img src="https://img.shields.io/badge/Languages-6-FFA116?style=for-the-badge&logo=codeforces" alt="Languages">
+  <img src="https://img.shields.io/badge/CI%20Tests-60%2B-2EA44F?style=for-the-badge&logo=pytest" alt="Tests">
+  <img src="https://img.shields.io/badge/Commits-200%2B-EA4335?style=for-the-badge&logo=git" alt="Commits">
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -156,21 +180,33 @@ I'm a **B.Tech CSE (AI/ML)** student who builds ML systems that work beyond note
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmkarSolat-17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarSolat-17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170">
+  <img src="https://github-stats-extended.vercel.app/api?username=OmkarSolat-17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=OmkarSolat-17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170">
 </p>
 
-### 💻 Spent My Time On
+### 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarSolat-17&layout=donut&theme=tokyonight&hide_border=true&langs_count=10" alt="Languages Donut" height="300">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=OmkarSolat-17&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats" height="300">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=OmkarSolat-17&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&hide=html,css" alt="Languages Donut" height="280">
 </p>
 
 ### 🐍 Contribution Snake
 
+<!-- This auto-switches between dark and light mode based on GitHub theme -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OmkarSolat-17/OmkarSolat-17/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmkarSolat-17/OmkarSolat-17/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmkarSolat-17/OmkarSolat-17/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/OmkarSolat-17/OmkarSolat-17/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
+
+---
+
+### 💬 Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Programming Quote">
 </p>
 
 ---
@@ -189,4 +225,9 @@ I'm a **B.Tech CSE (AI/ML)** student who builds ML systems that work beyond note
 
 <p align="center">
   <i>Building ML systems that work in production, not just notebooks.</i>
+</p>
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=80&section=footer" alt="Footer Wave">
 </p>
