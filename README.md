@@ -204,15 +204,18 @@ I'm a **B.Tech CSE (AI/ML)** student who builds ML systems that work beyond note
 
 ### 💬 Daily Dose of Wisdom & Humor
 
-<!-- Motivational / Life Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Motivational Quote">
-</p>
-
-<!-- Programming Joke / Meme -->
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&qColor=%239A77CF&aColor=%23BBDBF1" alt="Programming Joke">
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <b>✨ Motivation</b><br><br>
+      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&border=true" alt="Motivational Quote">
+    </td>
+    <td align="center" valign="top">
+      <b>😂 Dev Humor</b><br><br>
+      <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&qColor=%239A77CF&aColor=%23BBDBF1" alt="Programming Joke">
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <sub>💡 Refresh the page for a new quote & joke!</sub>
