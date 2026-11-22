@@ -94,7 +94,6 @@ I'm a **B.Tech CSE (AI/ML)** student who builds ML systems that work beyond note
 
 <details>
 <summary><b>📂 More Projects</b></summary>
-<br>
 
 | Project                                                                                                 | Description                                                                                      | Tech                             |
 | :------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------- | :------------------------------- |
@@ -203,10 +202,20 @@ I'm a **B.Tech CSE (AI/ML)** student who builds ML systems that work beyond note
 
 ---
 
-### 💬 Quote
+### 💬 Daily Dose of Wisdom & Humor
+
+<!-- Motivational / Life Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Motivational Quote">
+</p>
+
+<!-- Programming Joke / Meme -->
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&qColor=%239A77CF&aColor=%23BBDBF1" alt="Programming Joke">
+</p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Programming Quote">
+  <sub>💡 Refresh the page for a new quote & joke!</sub>
 </p>
 
 ---
